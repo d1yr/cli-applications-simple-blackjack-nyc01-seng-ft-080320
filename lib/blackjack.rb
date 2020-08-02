@@ -37,7 +37,8 @@ end
 
 def hit?(card_total)
   # code hit? here
-  gets.chomp
+  prompt_user
+  if get_user_input = 
   
 end
 
